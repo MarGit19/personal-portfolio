@@ -41,9 +41,9 @@ I am Martin Uche, a passionate software engineer with a strong background in cre
 
 
 ## Contact Me
-**Email:** martin.uche.dev@gmail.com
-**[LinkedIn]:** (https://www.linkedin.com/in/martinuchedev/)
-**[GitHub]:** (https://github.com/MarGit19)
+- **Email:** martin.uche.dev@gmail.com
+- **[LinkedIn]:** (https://www.linkedin.com/in/martinuchedev/)
+- **[GitHub]:** (https://github.com/MarGit19)
 
 ## Let's Connect
 I am always open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn. Let's create something amazing together!
