@@ -25,7 +25,7 @@ I am Martin Uche, a passionate software engineer with a strong background in cre
 ### Restaurant Reservation App
 - **Description:** The Restaurant Reservation App is a robust and user-friendly solution designed to streamline the reservation process for fine dining restaurants. The application provides restaurant personnel with a comprehensive toolset for efficiently managing customer reservations. Key features include the ability to create, modify, and cancel reservations, as well as seat guests at specific tables. With intuitive interfaces and seamless integration between the frontend and backend, the system empowers restaurant managers to stay organized and provide exceptional customer service. Additionally, thorough logging mechanisms have been implemented to facilitate troubleshooting and ensure smooth operation in production environments.
 - **Technologies:** HTML5, CSS3, JS, Node.js, Express.js, React, PostgreSQL, Git.
-- **Links:* [Website](https://restaurant-reservation-frontend-x916.onrender.com/dashboard), [Github](https://github.com/MarGit19/starter-restaurant-reservation).
+- **Links:** [Website](https://restaurant-reservation-frontend-x916.onrender.com/dashboard), [Github](https://github.com/MarGit19/starter-restaurant-reservation).
 
 
 ## Education
@@ -42,8 +42,8 @@ I am Martin Uche, a passionate software engineer with a strong background in cre
 
 ## Contact Me
 **Email:** martin.uche.dev@gmail.com
-**[LinkedIn](https://www.linkedin.com/in/martinuchedev/)**
-**[GitHub](https://github.com/MarGit19)**
+**[LinkedIn]:** (https://www.linkedin.com/in/martinuchedev/)
+**[GitHub]:** (https://github.com/MarGit19)
 
 ## Let's Connect
 I am always open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn. Let's create something amazing together!
