@@ -49,7 +49,7 @@ I am Martin, a passionate software engineer with a strong background in creating
 
 
 ## Contact Me
-- **Email:** martin.uche.dev@gmail.com
+- [Email](martin.uche.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/martinuchedev/)
 - [GitHub](https://github.com/MarGit19)
 
