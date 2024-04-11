@@ -1,4 +1,4 @@
-# Personal Portfolio [link](https://iridescent-nasturtium-03d10c.netlify.app/)
+# Personal Portfolio
 Welcome to my personal portfolio! This is where you can learn more about me, my skills, projects, and experiences. Feel free to explore and get in touch if you have any questions or opportunities for collaboration.
 
 ## Preview
